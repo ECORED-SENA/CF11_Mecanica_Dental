@@ -5,14 +5,14 @@
     
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1 Constitución política de Colombia
+        span 8
+      h1  La satisfacción del cliente: elementos y reto
 
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema8',
   data: () => ({
     // variables de vue
   }),

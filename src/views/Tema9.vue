@@ -5,14 +5,14 @@
     
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1 Constitución política de Colombia
+        span 9
+      h1  Mecanismo para el reporte de información que permitirá la verificación de la entrega de la Carta de Derechos y Deberes del Afiliado y del Paciente y la Carta de Desempeño de la EPS. (Resolución 1379 de 2015)
 
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema9',
   data: () => ({
     // variables de vue
   }),

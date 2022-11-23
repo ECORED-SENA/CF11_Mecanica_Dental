@@ -5,14 +5,14 @@
     
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1 Constitución política de Colombia
+        span 10
+      h1  Plataforma estratégica
 
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema10',
   data: () => ({
     // variables de vue
   }),

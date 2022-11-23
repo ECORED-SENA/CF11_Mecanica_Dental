@@ -5,14 +5,14 @@
     
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1 Constitución política de Colombia
+        span 5
+      h1  El Sistema General de Riesgos Profesionales. (Decreto 1295 de 1994)
 
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema5',
   data: () => ({
     // variables de vue
   }),

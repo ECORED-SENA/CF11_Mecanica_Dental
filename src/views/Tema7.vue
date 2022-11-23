@@ -5,14 +5,14 @@
     
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1 Constitución política de Colombia
+        span 7
+      h1 Tipos de clientes
 
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema7',
   data: () => ({
     // variables de vue
   }),

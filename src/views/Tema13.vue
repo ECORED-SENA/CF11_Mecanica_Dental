@@ -5,14 +5,14 @@
     
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1 Constitución política de Colombia
+        span 13
+      h1  Trabajo en equipo: autoestima, autonomía
 
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema13',
   data: () => ({
     // variables de vue
   }),

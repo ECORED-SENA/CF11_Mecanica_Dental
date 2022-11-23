@@ -5,14 +5,14 @@
     
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1 Constitución política de Colombia
+        span 14
+      h1  Etiqueta y protocolo
 
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema14',
   data: () => ({
     // variables de vue
   }),

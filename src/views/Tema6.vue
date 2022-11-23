@@ -5,14 +5,14 @@
     
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1 Constitución política de Colombia
+        span 6
+      h1  Política de Atención Integral en Salud — PAÍS y el Modelo de Acción Integral Territorial - MAITE (Resolución 2626 de 2019)
 
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema6',
   data: () => ({
     // variables de vue
   }),

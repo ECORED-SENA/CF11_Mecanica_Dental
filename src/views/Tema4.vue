@@ -5,14 +5,14 @@
     
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1 Constitución política de Colombia
+        span 4
+      h1  Reforma del Sistema General de Seguridad Social en Salud (Ley 1438 de 2011)
 
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema4',
   data: () => ({
     // variables de vue
   }),
