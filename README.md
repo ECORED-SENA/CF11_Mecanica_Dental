@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.3.0**
+# **CF11_Mecanica_Dental**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/CF11_Mecanica_Dental/](https://ecored-sena.github.io/CF11_Mecanica_Dental/)
 
 #
 
