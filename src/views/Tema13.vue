@@ -15,7 +15,7 @@
     .row.mb-4
       .col-lg-12
         .row.align-items-center.justify-content-center
-          .col-lg-4
+          .col-lg-4.col-md-5.col-6
             .cajon.celeste5.p-4
               ul.lista-ul--color.mb-4
                 li
@@ -36,7 +36,7 @@
                 li
                   i.fas.fa-check
                   | El perfeccionista.
-          .col-lg-3
+          .col-lg-3.col-md-7.col-6
             figure
               img(src='@/assets/curso/tema13/1.png', alt='Texto que describa la imagen')
              
@@ -46,7 +46,7 @@
           p.mb-4 <b>Estimado aprendiz la finalidad del siguiente video “La Carreta - ¿A quién tienes en tu equipo?” es que usted reflexione con cuál de los personajes se identifica:</b>
         .col-lg-1
           span
-        .col-lg-4
+        .col-lg-4.col-md-6.col-8
           .cajon.celeste5.p-4
             ul.lista-ul--color.mb-4
               li
@@ -80,13 +80,13 @@
     p.mb-4 <b>Autonomía y autoestima van ligados, cuando tenemos:</b>
 
     .row.justify-content-center.mb-4
-      .col-lg-4.mb-4
+      .col-lg-4.col-md-7.mb-4
         figure.mb-0
           img(src='@/assets/curso/tema13/img1.jpg', alt='Texto que describa la imagen')
         .tarjeta.color-acento-contenido2.p-4
           h4.mb-0.text-center Baja autoestima: 
           p.mb-0.text-center no confiamos en nuestras posibilidades. (Bueno, 2018).
-      .col-lg-4.mb-4
+      .col-lg-4.col-md-7.mb-4
         figure.mb-0
           img(src='@/assets/curso/tema13/img2.jpg', alt='Texto que describa la imagen')
         .tarjeta.color-primario2.p-4
@@ -102,11 +102,11 @@
     h4 Relaciones interpersonales
     p.mb-5 Es la interacción que existe entre dos o más personas, que nos permite alcanzar diferentes propósitos basándose en los sentimientos de las personas. Sin embargo, este tipo de relaciones son la base, no solo de la vida personal sino también de la social y laboral. Por otra parte “En el ámbito laboral surgen muchas discrepancias, recelos, roces; unos verbales, en el contexto de una conversación entre compañeros de trabajo; otros corporales, en la comunicación no verbal” (López, 2006).
 
-    .row.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-7
-        .cajon.color-acento-contenido(style='background-color: #C3F0F2').p-4
+        .cajon.color-acento-contenido(style='background-color: #C3F0F2').p-4.mb-4
           p.mb-0 “En el sentido objetivo las relaciones humanas pueden ser un medio para cumplir con las finalidades de la empresa, siempre y cuando éstas se identifiquen con el bien común. En el sentido subjetivo tienen como finalidad el desarrollo y perfeccionamiento humano, el cual también debería de constituir uno de los objetivos primordiales de toda organización. El olvido de esta finalidad principal, considerándola exclusivamente como un medio para alcanzar fines económicos, puede prevenir la obtención de estos últimos a mediano o largo plazo. La manipulación o falta de respeto a la dignidad personal, tarde o temprano darán resultados negativos tanto en el orden de la productividad como en el humano” (Soria Murillo, 2004).
-      .col-lg-5
+      .col-lg-5.col-md-8.col-8
         figure.mb-0
           img(src='@/assets/curso/tema13/2.png', alt='Texto que describa la imagen')
     br
@@ -218,7 +218,7 @@
 
     .row.justify-content-center.mb-4
       .col-lg-7
-        .cajon.color-acento-contenido(style='background-color: #C3F0F2').p-4
+        .cajon.color-acento-contenido(style='background-color: #C3F0F2').p-4.mb-4
           h4 La toma de decisiones
           p.mb-4 A lo largo de nuestras vidas tomamos diversidad de decisiones que pueden ser acertadas o no. Así mismo esa decisión conlleva a unas consecuencias que nos permiten dar respuesta a los desafíos a los que diariamente nos enfrentamos.
           p.mb-5 <b>En líneas generales, tomar una decisión implica:</b>
@@ -238,7 +238,7 @@
             li
               i.fas.fa-check
               | Convertir la opción seleccionada en acción. (wikieoi, 2012)
-      .col-lg-5
+      .col-lg-5.col-md-8.col-8
         figure
           img(src='@/assets/curso/tema13/3.png', alt='Texto que describa la imagen')
 

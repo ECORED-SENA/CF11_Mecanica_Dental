@@ -31,7 +31,7 @@
         h4.mb-4 Régimen contributivo
         p.mb-4 Está conformado por quienes tienen capacidad de realizar aportes a la seguridad social a través de su trabajo o ingresos independientes.
         p.mb-4 <b>Con las siguientes medidas fundamentales:</b>
-        LineaTiempoD.color-secundario
+        LineaTiempoD.color-secundario.mb-4
           p(numero="1" titulo="Primero") Aumentar los aportes para la seguridad social en salud del 6 % al 12 % del salario del trabajador, para cubrir al cónyuge y los hijos.
           
           p(numero="2" titulo="Segundo") Acabar con el monopolio del Instituto de Seguros Sociales en la administración del seguro obligatorio de salud, abriendo la posibilidad de competir a empresas privadas con o sin ánimo de lucro, empresas cooperativas e incluso a otras empresas públicas o mixtas. Fueron denominadas con el eufemismo de Entidades Promotoras de Salud (EPS). Para finales de 1996 se encontraban en funcionamiento 30 de ellas.

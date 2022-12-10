@@ -44,7 +44,7 @@
     p.mb-4 Un protocolo son normas o reglas que se deben seguir para dar cumplimiento a una actividad, para llegar a la mejora continua del proceso generando así confianza y satisfacción de las dos partes.
     p.mb-4 <b>En el siguiente enlace del Ministerio de Salud, puede ampliar información sobre este tema. Pag. 23-29.</b>
     .row.mb-4 
-      .col-lg-4
+      .col-lg-4.col-md-6.col-7
         a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
@@ -125,8 +125,8 @@
           li
             i.fas.fa-check
             | Comprometerse con dicha solución. (Sánchez, 2012)
-        .row 
-          .col-8
+        .row.justify-content-center
+          .col-8.col-md-8
             figure.mb-0
               img(src='@/assets/curso/tema12/1.png', alt='Texto que describa la imagen')
 

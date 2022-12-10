@@ -9,12 +9,12 @@
       h1  El Sistema General de Riesgos Profesionales. (Decreto 1295 de 1994)
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7
-        .cajon.color-acento-contenido(style='background-color: #C3F1F2').px-5.py-4
+      .col-lg-7.col-md-12.col-12
+        .cajon.color-acento-contenido(style='background-color: #C3F1F2').px-5.py-4.mb-4
           p.mb-2 La Ley 100 de 1993 definió el objeto del Sistema General de Pensiones: “garantizar a la población, el amparo contra las contingencias derivadas de la vejez, la invalidez y la muerte, mediante el reconocimiento de las pensiones y prestaciones que se determinan en la presente ley, así como propender por la ampliación progresiva de cobertura a los segmentos de población no cubiertos con un sistema de pensiones”.
           p.mb-4 <b>A continuación, podrá observar dos videos:</b>
           p.mb-0 El primero se titula ¿Cómo funciona el sistema pensional colombiano? Como son: el de ahorro individual o solidario (RAIS) entre los que están Colfondos, Porvenir, etc. y el régimen de prima media (RPM) representado por Colpensiones.
-      .col-lg-5
+      .col-lg-5.col-md-8.col-8
         figure
           img(src='@/assets/curso/tema5/img1.svg', alt='Texto que describa la imagen')
     br
@@ -31,8 +31,8 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10
-        .row.align-items-center
-          .col-lg-7
+        .row.justify-content-center.align-items-center
+          .col-lg-7.col-md-12.col-12
             .tarjeta.celeste2.p-4
               ul.lista-ul--color
                 li
@@ -47,12 +47,12 @@
                 li
                   i.fas.fa-check
                   | Resolución 2030 del 17 de diciembre de 2019
-          .col-lg-3
+          .col-lg-3.col-md-8.col-8
             figure
               img(src='@/assets/curso/tema5/img2.svg', alt='Texto que describa la imagen')
     .row.mb-4
       .tarjeta--container.row.mb-5
-        .col-md 
+        .col-lg.col-md
           .tarjeta-avatar
             img(src='@/assets/curso/tema5/avatar1.svg' alt='AvatarTop')
             .tarjeta.color-cian
@@ -66,7 +66,7 @@
                       .anexo__texto
                         p.mb-0 <b>Decreto Único Sistema General de Pensiones.</b>
                         p Fuente: Ministerio del Trabajo.
-        .col-md 
+        .col-lg.col-md
           .tarjeta-avatar
             img(src='@/assets/curso/tema5/avatar2.svg' alt='AvatarTop')
             .tarjeta.color-azul
@@ -85,14 +85,14 @@
     p.mb-4 El sistema de acuerdo con su financiación y la modalidad de administración de los recursos está conformado por el Régimen Solidario de Prima Media con Prestación Definida (RPM) y el Régimen de Ahorro Individual con Solidaridad (RAIS).
     p.mb-5 <b>La administración del primero está a cargo del Estado (actualmente Colpensiones) y la del segundo está a cargo de los fondos privados de pensiones y cesantías</b>.
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-4
       .col-lg-6
         .row.justify-content-center
-          .col-lg-6
+          .col-lg-6.col-md-8.col-10.mb-4
             .bloque-texto-c.color-claro.p-4
               i.fas.fa-quote-right
               h4.mb-2 Prima media con prestación definida Seguro / Exigible
-          .col-lg-6
+          .col-lg-6.col-md-8.col-10
             .bloque-texto-c.color-claro.p-4
               i.fas.fa-quote-right
               h4.mb-2 Ahorro individual con solidaridad capacidad de capitalización / Rentabilidad
@@ -103,89 +103,89 @@
     .row.justify-content-center.mb-4
       .col-lg-10
         .row.align-items-center.mb-4
-          .col-lg-1
+          .col-lg-1.col-md-2.col-4
             figure
               img(src='@/assets/curso/tema5/dialogomujer.svg', alt='Texto que describa la imagen')
-          .col-lg-10
+          .col-lg-10.col-md-10.col-8
             .comentario
               .comentario.burbuja
                 p.mb-0 Trabajadores dependientes, los servidores públicos o para los independientes vinculados mediante la modalidad de contratación por prestación de servicios.
     
         .row.align-items-center.justify-content-end.mb-4
-          .col-lg-5
+          .col-lg-5.col-md-8.col-10
             .comentario1
               .comentario1.burbuja1
                 p.mb-0 Voluntaria para los independientes sin contrato.
-          .col-lg-1
+          .col-lg-1.col-md-2.col-4
             figure
               img(src='@/assets/curso/tema5/dialogohombre.svg', alt='Texto que describa la imagen')
 
         .row.align-items-center.mb-4
-          .col-lg-1
+          .col-lg-1.col-md-2.col-4
             figure
               img(src='@/assets/curso/tema5/dialogomujer.svg', alt='Texto que describa la imagen')
-          .col-lg-10
+          .col-lg-10.col-md-10.col-8
             .comentario
               .comentario.burbuja
                 p.mb-0 Condición necesaria para el reconocimiento y pago de las prestaciones y de las pensiones de invalidez, vejez y sobrevivientes y de la obligación de efectuar los aportes (cotización o ahorro).
 
         .row.align-items-center.justify-content-end.mb-4
-          .col-lg-10
+          .col-lg-10.col-md-10.col-8
             .comentario2
               .comentario2.burbuja2
                 p.mb-0 La afiliación al Sistema General de Pensiones es permanente, excluyente, de carácter contractual y no se pierde por mora.
-          .col-lg-1
+          .col-lg-1.col-md-2.col-4
             figure
               img(src='@/assets/curso/tema5/dialogohombre.svg', alt='Texto que describa la imagen')
 
         .row.align-items-center.mb-4
-          .col-lg-1
+          .col-lg-1.col-md-2.col-4
             figure
               img(src='@/assets/curso/tema5/dialogomujer.svg', alt='Texto que describa la imagen')
-          .col-lg-10
+          .col-lg-10.col-md-10.col-8
             .comentario
               .comentario.burbuja
                 p.mb-0 Obligatoria para personas naturales con vinculación contractual, que sirvan al Estado o beneficiarios del Fondo de Solidaridad Pensional.
 
         .row.align-items-center.justify-content-end.mb-4
-          .col-lg-10
+          .col-lg-10.col-md-10.col-8
             .comentario2
               .comentario2.burbuja2
                 p.mb-0 Afiliados
                 p.mb-0 Activos: cotizantes
                 p.mb-0 Inactivos: personas con mora superior a seis meses.
-          .col-lg-1
+          .col-lg-1.col-md-2.col-4
             figure
               img(src='@/assets/curso/tema5/dialogohombre.svg', alt='Texto que describa la imagen')
 
         .row.align-items-center.mb-4
-          .col-lg-1
+          .col-lg-1.col-md-2.col-4
             figure
               img(src='@/assets/curso/tema5/dialogomujer.svg', alt='Texto que describa la imagen')
-          .col-lg-10
+          .col-lg-10.col-md-10.col-8
             .comentario
               .comentario.burbuja
                 p.mb-0 Voluntaria para extranjeros con contratos y en los contratos en los que la afiliación no es obligatoria.
 
         .row.align-items-center.justify-content-end.mb-4
-          .col-lg-10
+          .col-lg-10.col-md-10.col-8
             .comentario2
               .comentario2.burbuja2
                 p.mb-0 Para el reconocimiento de las pensiones se tiene en cuenta el número de semanas cotizadas y los dos regímenes basados en el principio de solidaridad garantizan el reconocimiento y el pago de una pensión mínima la cual solo podrá causarse por invalidez o por vejez.
-          .col-lg-1
+          .col-lg-1.col-md-2.col-4
             figure
               img(src='@/assets/curso/tema5/dialogohombre.svg', alt='Texto que describa la imagen')
 
         .row.align-items-center.mb-4
-          .col-lg-1
+          .col-lg-1.col-md-2.col-4
             figure
               img(src='@/assets/curso/tema5/dialogomujer.svg', alt='Texto que describa la imagen')
-          .col-lg-10
+          .col-lg-10.col-md-10.col-8
             .comentario
               .comentario.burbuja
                 p.mb-0 En el caso que el afiliado al cumplir la edad de la pensión no cumpla con los demás requisitos para el efecto y, dependiendo del régimen en el cual se encuentre afiliado, tendrá derecho a la devolución de saldos o a una indemnización sustitutiva.
 
-    h4.mb-5 Reconocimientos del régimen de prima media
+    h4.mb-4 Reconocimientos del régimen de prima media
     ul.lista-ul--color.mb-4
       li
         i.fas.fa-check
@@ -203,7 +203,7 @@
           .row.justify-content-center
             .col-lg-10
               .row.align-items-center.mb-0
-                .col-lg-7
+                .col-lg-7.mb-4
                   h4.mb-4 Régimen de ahorro individual con solidaridad.
                   p.mb-0 En este régimen el financiamiento de las pensiones se hace a través de una cuenta individual de ahorro manejada por la administradora de pensiones. Las cotizaciones de cada afiliado están dirigidas a financiar su propia pensión centrando su efectividad en la acumulación de capital en la cuenta individual del afiliado (cantidad cotizada) dejando de lado los requisitos de edad y tiempo de cotización exigidos por el régimen de prima media.
                 .col-lg-5

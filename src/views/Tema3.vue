@@ -10,7 +10,7 @@
 
     p.mb-4 Ley 1751 de 2015 – El Ministerio de Salud regula el derecho fundamental a la salud, basada en unos principios y elementos esenciales que serán los encargados de impactar la prestación de los servicios y tecnologías en salud con el fin de asegurar una atención acorde a las necesidades de la población.
     .row.justify-content-center
-      .col-lg-3
+      .col-lg-3.col-md-6.col-8
         a.anexo.mb-4(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
@@ -21,10 +21,10 @@
     h4.mb-5 La Ley Estatutaria de Salud
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-1
+      .col-lg-1.col-md-2.col-2
         figure
           img(src='@/assets/curso/tema2/decoracion.svg', alt='Texto que describa la imagen')
-      .col-lg-11
+      .col-lg-11.col-md-10.col-10
         .tarjeta.celeste2.p-4
           p.mb-0 Es la primera ley de su clase para un derecho social y reconoce a la salud como un derecho fundamental.
           p.mb-0 Es la Ley 1751 de 2015. Por medio de la cual se regula el derecho fundamental a la salud y se dictan otras disposiciones.

@@ -40,7 +40,7 @@
           iframe(width="1026" height="578" src="https://www.youtube.com/embed/tDUOKWTeoYs" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-4 <b>En el protocolo de atención al ciudadano sector salud del Ministerio de Salud y Protección Social, puede encontrar temas de su interés como:</b>
     
-    .row.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-2
         span
       .col-lg-4
@@ -64,7 +64,7 @@
                 .text-white
                   p.mb-0 <b>Protocolo de protección al ciudadano.</b>
                   p Fuente: Ministerio de salud y Protección Social.
-      .col-lg-4
+      .col-lg-4.col-md-8.col-8
         figure
           img(src='@/assets/curso/tema14/1.png', alt='Texto que describa la imagen')
   

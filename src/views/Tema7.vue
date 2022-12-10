@@ -8,12 +8,12 @@
         span 7
       h1 Tipos de clientes
 
-    .row.align-items-center.mb-4 
+    .row.justify-content-center.align-items-center.mb-4 
       .col-lg-7
-        .cajon.color-acento-contenido(style='background-color: #C3F1F2').px-5.py-4
+        .cajon.color-acento-contenido(style='background-color: #C3F1F2').px-5.py-4.mb-4
           p.mb-4 En el Diccionario de Marketing, de Cultural S.A., encontramos que "cliente" es un "Término que define a la persona u organización que realiza una compra. Puede estar comprando en su nombre, y disfrutar personalmente del bien adquirido, o comprar para otro, como el caso de los artículos infantiles. Resulta la parte de la población más importante de la compañía.
           p.mb-0 Teniendo en cuenta lo anterior podemos determinar que el cliente en salud es la persona que adquiere un servicio que necesita o desea para sí mismo o para otra persona. Es necesario recalcar que nuestro usuario es el motivo principal por el que se crean las instituciones de salud
-      .col-lg-5
+      .col-lg-5.col-md-8.col-8
         figure
           img(src='@/assets/curso/tema7/img1.png', alt='Texto que describa la imagen')
 
