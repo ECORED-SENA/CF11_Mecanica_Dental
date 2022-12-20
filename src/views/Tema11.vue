@@ -93,7 +93,7 @@
       p.mb-4 <b>El siguiente enlace presenta un video que da a conocer el poder de transmitir lo que queremos decir de una manera clara y concisa.</b>
       figure.mb-5
         .video
-          iframe(width="1026" height="578" src="https://www.youtube.com/embed/tDUOKWTeoYs" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="1026" height="578" src="https://www.youtube.com/embed/eF-UJWjGSX8" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     h4.mb-4 Tipos de Comunicación
     p.mb-4 Comunicación verbal. Nos permite expresar y transmitir un mensaje de manera:
     .row.mb-4

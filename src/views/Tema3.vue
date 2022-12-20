@@ -11,7 +11,7 @@
     p.mb-4 Ley 1751 de 2015 – El Ministerio de Salud regula el derecho fundamental a la salud, basada en unos principios y elementos esenciales que serán los encargados de impactar la prestación de los servicios y tecnologías en salud con el fin de asegurar una atención acorde a las necesidades de la población.
     .row.justify-content-center
       .col-lg-3.col-md-6.col-8
-        a.anexo.mb-4(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('downloads/anexo1.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -78,12 +78,12 @@
                   .col
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0
-                        h3.mb-1 Ley Estatutaria de Salud.
+                        h3.mb-1 Ley Estatutaria de Salud
                         p A continuación, se encuentra el enlace para ingresar a la pagina web del Ministerio de Salud y Protección Social donde está la Ley Estatutaria de Salud.
                       .col-sm-auto
-                        a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-                          span Descargar
-                          i.fas.fa-file-download
+                        a.boton.color-acento-botones(href="https://www.minsalud.gov.co/proteccionsocial/Paginas/ley-estatutaria-de-salud.aspx" target="_blank")
+                          span(style="color:#000") Ir al sitio
+                          i.fas.fa-link(style="color:#000")
             .col-lg-10
               .tarjeta.color-primario.p-3.mb-5
                 .row.justify-content-around.align-items-center
@@ -93,11 +93,11 @@
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0
                         h3.mb-1 Infografia de la Ley Estatutario de Salud
-                        p Enlace a la infografía de la Ley Estatutaria de Salud, Construida por el Ministerio de Salud y Protección Social.
+                        p Enlace a la infografía de la Ley Estatutaria de Salud, construida por el Ministerio de Salud y Protección Social.
                       .col-sm-auto
-                        a.boton.color-acento-botones(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-                          span Descargar
-                          i.fas.fa-file-download
+                        a.boton.color-acento-botones(href="https://www.asivamosensalud.org/publicaciones/infografias/para-despejar-las-dudas-sobre-la-ley-estatutaria" target="_blank")
+                          span(style="color:#000") Ir al sitio
+                          i.fas.fa-link(style="color:#000")
 
  
 </template>

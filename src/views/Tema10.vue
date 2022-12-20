@@ -44,9 +44,9 @@
               .p-4
                 h4.text-center Códigos de ética
     p.mb-4 <b>En el siguiente enlace podrá visualizar la descripción completa de la plataforma estratégica del:</b>
-    .row
+    .row.justify-content-center
       .col-lg-4.col-md-6.col-6
-        a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/PES/plataforma-estrategica.pdf" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto

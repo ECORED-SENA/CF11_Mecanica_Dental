@@ -12,7 +12,7 @@
       .col-lg-7
         .cajon.color-acento-contenido(style='background-color: #C3F1F2').px-5.py-4.mb-4
           p.mb-4 En el Diccionario de Marketing, de Cultural S.A., encontramos que "cliente" es un "Término que define a la persona u organización que realiza una compra. Puede estar comprando en su nombre, y disfrutar personalmente del bien adquirido, o comprar para otro, como el caso de los artículos infantiles. Resulta la parte de la población más importante de la compañía.
-          p.mb-0 Teniendo en cuenta lo anterior podemos determinar que el cliente en salud es la persona que adquiere un servicio que necesita o desea para sí mismo o para otra persona. Es necesario recalcar que nuestro usuario es el motivo principal por el que se crean las instituciones de salud
+          p.mb-0 Teniendo en cuenta lo anterior podemos determinar que el cliente en salud es la persona que adquiere un servicio que necesita o desea para sí mismo o para otra persona. Es necesario recalcar que nuestro usuario es el motivo principal por el que se crean las instituciones de salud.
       .col-lg-5.col-md-8.col-8
         figure
           img(src='@/assets/curso/tema7/img1.png', alt='Texto que describa la imagen')
@@ -85,7 +85,7 @@
               .col-md-11
                 p Dejará claro desde el principio que no tiene tiempo y puede que esté haciendo otras cosas mientras compra, como hablar por teléfono. Suele ser caótico e impaciente. Intente que el ambiente sea tranquilo y no intente la venta si no le presta atención.
 
-    h4 Tipos de cliente según su nivel de fidelización  
+    h4 Tipos de clientes en función su satisfacción
     .row.mb-5
       .col-lg-12
         .tarjeta.celeste4.p-4
@@ -108,7 +108,7 @@
 
             .row.justify-content-center(titulo="Clientes rehenes")
               .col-md-11
-                p Los clientes rehenes a veces se agrupan bajo la categoría de clientes insatisfechos. Son aquellos que no están conformes con el servicio y que desean cambiar de proveedor, pero que no lo hacen porque no encuentran alternativas accesibles o porque no pueden (por los costes del cambio, el timing, las cláusulas del contrato, etc.) (BeeDIGITAL, 2020)
+                p Los clientes rehenes a veces se agrupan bajo la categoría de clientes insatisfechos. Son aquellos que no están conformes con el servicio y que desean cambiar de proveedor, pero que no lo hacen porque no encuentran alternativas accesibles o porque no pueden (por los costes del cambio, el #[i timing], las cláusulas del contrato, etc.) (BeeDIGITAL, 2020)
 
 
 

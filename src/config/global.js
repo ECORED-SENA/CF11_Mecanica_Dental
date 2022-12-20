@@ -147,17 +147,17 @@ export default {
       },
     ],
     subMenu: [
-      {
-        icono: 'fas fa-sitemap',
-        titulo: 'Síntesis',
-        nombreRuta: 'sintesis',
-      },
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
+      //{
+      //  icono: 'fas fa-sitemap',
+      //  titulo: 'Síntesis',
+      //  nombreRuta: 'sintesis',
+      //},
+      //{
+      //  nombreRuta: 'actividad',
+      //  icono: 'far fa-question-circle',
+      //  titulo: 'Actividad didáctica',
+      //  desarrolloContenidos: true,
+      //},
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -188,59 +188,113 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Adrián, Y. (22 de diciembre de 2019). conceptos, definiciones ',
+      link: 'https://conceptodefinicion.de/comunicacion/',
+    },
+    {
+      referencia:
+        'Amazonia_Team. (08 de mayo de 2019). Amazonia Team Factory. LAS 10 CUALIDADES DEL LÍDER MÁS IMPORTANTES: ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://amazonia-teamfactory.com/blog/las-10-cualidades-del-lider-mas-importantes/',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'BeeDIGITAL. (2020). Tipos de clientes que existen: características y cómo tratarlos. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.beedigital.es/experiencia-de-cliente/tipos-de-clientes-caracteristicas/',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Bueno, M. (08 de abril de 2018). fundación querer. Autonomía y autoestima. ',
+      link: 'https://www.fundacionquerer.org/autonomia-y-autoestima/',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Coelho, F. (30 de mayo de 2019). Significados. Comunicación asertiva. ',
+      link: 'https://www.significados.com/comunicacion-asertiva/',
+    },
+    {
+      referencia:
+        'El Congreso de Colombia. (2011). Ley No. 1438 de 2011. Por medio de la cual se reforma el sistema general de seguridad social y se dictan otras disposiciones. (pp. 1–51). pp. 1–51. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/LEY 1438 DE 2011.pdf',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Komiya, A. (30 de octubre de 2015). CreceNegocios. factores que intervienen en el servicio al cliente. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.crecenegocios.com/que-es-el-servicio-al-cliente-y-cual-es-su-importancia/',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Koontz, H. & Weihrich, H. (1998). Administración una perspectiva global. Editorial Mc Graw Hill. ',
+      link: '',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Larraín Cortés, A. (2012). Diseño de una propuesta de mejoramiento de la calidad de servicio en una empresa del rubro automotriz. ',
+      link: 'http://repositorio.uchile.cl/handle/2250/104405',
+    },
+    {
+      referencia:
+        'López, M. (2006). Lenguaje transparente. Relaciones interpersonales en la empresa. Instituto de Estudios Almerienses.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de la Protección Social. (2004). Sistema de Seguridad Social en Salud. Régimen contributivo (pp. 1–24). pp. 1–24. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.minsalud.gov.co/Documentos y Publicaciones/GUIA INFORMATIVA DEL REGIMEN CONTRIBUTIVO.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. Por la cual se modifica la Política de Atención Integral en Salud - PAIS y se adopta el Modelo de Acción Integral Territorial - MAITE. (2019). Resolución No. 2626 de 2019 (pp. 1–17). pp. 1–17. ',
+      link:
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resolución No. 2626 de 2019.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2016). Política de Atención Integral en Salud. Un sistema de salud al servicio de la gente (pp. 1–97). pp. 1–97. ',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/modelo-pais-2016.pdf',
+    },
+    {
+      referencia: 'Minsalud. (s.f.). Minsalud. ',
+      link:
+        'https://www.minsalud.gov.co/salud/CAS/Paginas/Carta-de-derechos-y-deberes-y-carta-de-desempe%C3%B1o-del-afiliado-al-sistema-de-salud.aspx',
+    },
+    {
+      referencia:
+        'Murillo, S. (2004). Relaciones humanas. Limusa Noriega Editores.',
+      link: '',
+    },
+    {
+      referencia:
+        'Sánchez, R. R. (28 de febrero de 2012). Manejo de conflictos. ',
+      link:
+        'https://www.eoi.es/blogs/ruddyramonalonzo/2012/02/28/manejo-de-conflictos-en-las-organizaciones/',
+    },
+    {
+      referencia:
+        'Stoner, J., Freman, R., Edward, G. y Daniel, R. (1996). Administración. Editorial Pretice Hall.',
+      link: '',
+    },
+    {
+      referencia:
+        'wikieoi. (21 de marzo de 2012). Toma de Decisiones en Proyectos de negocio. ',
+      link:
+        'https://www.eoi.es/wiki/index.php/El_Liderazgo_y_la_Toma_de_Decisiones_en_Proyectos_de_negocio',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
-      significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+      termino: 'AIU',
+      significado: ' Atención Inicial de Urgencias.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Amabilidad',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'hace referencia al trato amable, cortés y servicial. Se da, por ejemplo, cuando los trabajadores saludan al cliente con una sonrisa sincera, cuando le hacen saber que están para servirlo, cuando le hacen sentir que están genuinamente interesados en satisfacerlo antes que en venderle, etc.',
     },
     {
       termino: 'Pirognóstico',
@@ -248,72 +302,333 @@ export default {
         'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Ambiente agradable',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'es un ambiente acogedor en donde el cliente se siente a gusto. Se da, por ejemplo, cuando los trabajadores le dan al cliente un trato amable y amigable, cuando el local del negocio cuenta con una buena decoración, una iluminación adecuada, una música agradable, etc.',
     },
     {
-      termino: 'Moda',
+      termino: 'Atención personalizada',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'es la atención directa o personal que toma en cuenta las necesidades, gustos y preferencias particulares del cliente. Se da, por ejemplo, cuando un mismo trabajador atiende a un cliente durante todo el proceso de compra, cuando se le brinda al cliente un producto diseñado especialmente de acuerdo con sus necesidades, gustos y preferencias particulares, etc.',
     },
     {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+      termino: 'ARL',
+      significado: ' Administradora de Riesgos Laborales.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Canal de comunicación',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'es el medio a través del cual es transmitida la información o mensaje, este puede ser natural como lo es el aire, o artificial como las cartas, cd, etc.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Cliente externo',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'es la persona que se puede denominar consumidor y que busca satisfacer una necesidad.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Cliente interno',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'es aquella persona que se desempeña como colaborador de la organización.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Cliente',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'es aquella persona que adquiere un bien o servicio por medio de una transacción financiera.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Código',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'es un elemento fundamental en la comunicación, son signos del idioma, combinados por el emisor según sea el mensaje que desea transmitir.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Comodidad',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'hace referencia a la comodidad que se le brinda al cliente cuando visita el local. Se da, por ejemplo, cuando el local cuenta con espacios lo suficientemente amplios como para que el cliente se sienta a gusto, sillas o sillones cómodos, mesas amplias, estacionamiento vehicular, un lugar en donde pueda guardar sus pertenencias, etc.',
+    },
+    {
+      termino: 'Comunicación asertiva',
+      significado:
+        'es una habilidad social de gran valor, que está asociada a la inteligencia emocional y a la capacidad para comunicarse de manera armoniosa y eficaz con los demás.',
+    },
+    {
+      termino: 'Contexto',
+      significado:
+        'es el medio o entorno que rodea al emisor y receptor al momento de realizarse la comunicación.',
+    },
+    {
+      termino: 'Copago',
+      significado:
+        'aporte en dinero que realiza beneficiario por los servicios de salud en hospitalización y cirugías y dependen de su IBC y sirve para financiar el sistema.',
+    },
+    {
+      termino: 'Cuotas de recuperación',
+      significado:
+        'aportes que se realizan por los servicios recibidos y que no están incluidos dentro del POS.',
+    },
+    {
+      termino: 'Cuotas moderadoras',
+      significado:
+        'sirven para financiar el sistema y lo cancelan los cotizantes y beneficiarios en los servicios recibidos por consulta externa, medicamentos y laboratorios.',
+    },
+    {
+      termino: 'ECAT',
+      significado: ' Eventos Catastróficos y Accidentes de Tránsito.',
+    },
+    {
+      termino: 'Emisor',
+      significado:
+        'es el encargado de iniciar la acción de comunicar y emitir cierta información. Éste decide de qué manera realizar la acción.',
+    },
+    {
+      termino: 'EPS',
+      significado: ' Empresa Promotora de Salud.',
+    },
+    {
+      termino: 'Higiene',
+      significado:
+        'hace referencia a la limpieza o aseo que hay en el local o en los trabajadores. Se da, por ejemplo, cuando los baños del local se encuentran siempre limpios, cuando no hay papeles en el piso, cuando los trabajadores están bien aseados, con el uniforme o la vestimenta impecable y las uñas recortadas, etc.',
+    },
+    {
+      termino: 'IBC',
+      significado: ' Ingreso Base de Cotización.',
+    },
+    {
+      termino: 'IPS',
+      significado: ' Instituto Prestador de Salud.',
+    },
+    {
+      termino: 'Misión',
+      significado:
+        'es lo que se hace para alcanzar el propósito en un periodo de tiempo.',
+    },
+    {
+      termino: 'Multiafiliación',
+      significado: 'personas que pertenecen a más de una EPS o EPS_S.',
+    },
+    {
+      termino: 'Plataforma estratégica',
+      significado:
+        'es la estructura conceptual sobre la cual se rige una organización. Está compuesta en esencia por: misión, visión, objetivos estratégicos, valores corporativos, políticas y códigos de ética.',
+    },
+    {
+      termino: 'POS',
+      significado: ' Plan Obligatorio de Salud.',
+    },
+    {
+      termino: 'Rapidez en la atención',
+      significado:
+        'es la rapidez con la que se le toman los pedidos al cliente, se le entrega su producto, o se le atienden sus consultas o reclamos. Se da, por ejemplo, cuando se cuenta con procesos simples y eficientes, cuando se cuenta con un número suficiente de personal, cuando se capacita al personal para que brinden una rápida atención, etc.',
+    },
+    {
+      termino: 'Receptor',
+      significado:
+        'es quien recibe el mensaje o información, ajustándose e interpretando según los signos lingüísticos. Luego de su interpretación está en capacidad de emitir una respuesta al emisor.',
+    },
+    {
+      termino: 'Régimen contributivo',
+      significado:
+        'personas afiliadas al sistema de salud y que tienen capacidad de pago.',
+    },
+    {
+      termino: 'Régimen subsidiado',
+      significado:
+        'personas pobres y vulnerables afiliados al SGSSS y que se encuentran clasificados por la encuesta del Sisbén 1 y 2 y tienen una EPS_S.',
+    },
+    {
+      termino: 'Seguridad',
+      significado:
+        'hace referencia a la seguridad que existe en el local y que, por tanto, se le da al cliente al momento de visitarlo. Se da, por ejemplo, cuando se cuenta con suficiente personal de seguridad, cuando se tienen claramente marcadas las zonas de seguridad, cuando se tienen claramente señalizadas las vías de escape, cuando se cuenta con botiquines médicos, etc.',
+    },
+    {
+      termino: 'Servicio al cliente',
+      significado:
+        'es el servicio o atención que una empresa o negocio brinda a sus clientes al momento de atender sus consultas, pedidos o reclamos, venderle un producto o entregarle el mismo.',
+    },
+    {
+      termino: 'SOAT',
+      significado: ' Seguro Obligatorio de Accidentes de Tránsito.',
+    },
+    {
+      termino: 'Visión',
+      significado:
+        'es la realidad que le gustaría ver a la empresa entorno al mundo, sus clientes y ella misma.',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Colpensiones, (2019), Beneficios del Régimen de Prima Media.',
+      tipo: 'Página <em>web</em>',
+      link:
+        'https://www.colpensiones.gov.co/educacion/publicaciones/2841/como-funciona-el-sistema-pensional-colombiano/',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: '',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Ministerio de Salud y Protección Social, Sistema General de Pensiones.',
+      tipo: 'Página <em>web</em>',
+      link:
+        'https://www.minsalud.gov.co/proteccionsocial/RiesgosLaborales/Paginas/sistema-general-pensiones.aspx',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: '',
+      referencia: 'Asobancaria, Regímenes de pensiones ¿a cuál afiliarse?',
+      tipo: 'Artículo',
+      link:
+        'https://www.sabermassermas.com/regimenes-de-pensiones-a-cual-afiliarse/',
+    },
+    {
+      tema: '',
+      referencia: 'Comunicación asertiva',
+      tipo: 'Página <em>web</em>',
+      link: 'https://concepto.de/comunicacion-asertiva/',
+    },
+    {
+      tema: '',
+      referencia: 'Servicio al cliente',
+      tipo: 'Página <em>web</em>',
+      link: 'https://concepto.de/servicio-al-cliente/',
+    },
+    {
+      tema: '',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Ministerio de Salud y Protección Social. (2010), Definición, actualización, modificación del Plan Obligatorio de Salud.',
+      tipo: 'PDF',
+      link:
+        'https://www.minsalud.gov.co/comunicadosPrensa/Documents/1.%20Antecedentes%20POS%20Agosto%202.pdf',
+    },
+    {
+      tema: '',
+      referencia:
+        'Sistema general de seguridad social. 3 de agosto de 2017. Publicado por fucsalud.edu.co.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://vimeo.com/228217305',
+    },
+    {
+      tema: '',
+      referencia:
+        'Constitución Política De Colombia - (Fundamentos de Administración Pública). 14 de junio de 2018. Publicado por Serranosqui Plus.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=tDUOKWTeoYs',
+    },
+    {
+      tema: '',
+      referencia: 'Melissa Lenis. (2016), Ley estatutaria en salud.',
+      tipo: 'Artículo - Presentación',
+      link: 'https://prezi.com/jvfvnkn0zd1p/ley-1751-de-2015/',
+    },
+    {
+      tema: '',
+      referencia:
+        'Ley 1751 de 2015. 25 de abril de 2017. Publicado por Jennifer Rueda.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=WBXc_GZLEa0',
+    },
+    {
+      tema: '',
+      referencia:
+        'Lo que usted debe saber sobre la Ley Estatutaria de Salud. 24 de febrero de 2015. Publicado por Ámbito Jurídico.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=8OTicDh_JYc',
+    },
+    {
+      tema: '',
+      referencia:
+        '¿Cómo funciona el sistema pensional colombiano? 19 de junio de 2019. Publicado por Asofondos.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=CoB_6Z8gtlU',
+    },
+    {
+      tema: '',
+      referencia:
+        'Clases de pensiones. 3 de mayo de 2010. Publicado por Actualícese.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=m8HzgXu24Js',
+    },
+    {
+      tema: '',
+      referencia:
+        'Presentación de la Política de Atención Integral en Salud. 31 de mayo de 2018. Publicado por MinSaludCol.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=AD9GoqohIuQ',
+    },
+    {
+      tema: '',
+      referencia:
+        'Resolución 2626 de 2019. 1 de febrero de 2020. Publicado por Laura Rocio Vargas Jimenez.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=n6bE2uy_Dr0',
+    },
+    {
+      tema: '',
+      referencia:
+        'Tipos de clientes. 6 de noviembre de 2013. Publicado por Diana Jaime.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=hixQG0y7nuI',
+    },
+    {
+      tema: '',
+      referencia:
+        'Carta de derechos y deberes. 5 de diciembre de 2013. Publicado por Supersalud Superintendencia de Salud.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=nTiPxWOYx5A',
+    },
+    {
+      tema: '',
+      referencia:
+        'Ministerio de salud y Protección Social. (2019). Plataforma Estratégica 2018- 2022.',
+      tipo: 'Artículo',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/PES/plataforma-estrategica.pdf',
+    },
+    {
+      tema: '',
+      referencia:
+        'María Estela Raffino. (2020). Comunicación asertiva. Concepto.de.',
+      tipo: 'Página <em>web</em>',
+      link: 'https://concepto.de/comunicacion-asertiva/',
+    },
+    {
+      tema: '',
+      referencia:
+        'Atención y Servicio al Cliente. 24 de junio de 2015. Publicado por Grupo Proikos.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=5xGoNUkHpZQ',
+    },
+    {
+      tema: '',
+      referencia:
+        'La carreta. 29 de agosto de 2016. Publicado por Performina Colombia.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=p4MMuesoseI',
+    },
+    {
+      tema: '',
+      referencia:
+        'El trabajo en equipo. 14 de julio de 2014. Publicado por Aldeas Verdes.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=nYhliYnTIUo',
+    },
+    {
+      tema: '',
+      referencia:
+        'Relaciones interpersonales humanizadas en salud. 4 de mayo de 2016. Publicado por Leidy Hernandez.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=KnmqCaeZYww',
+    },
+    {
+      tema: '',
+      referencia:
+        'Fomentar la autoestima: motivación, aliento y autonomía. 4 de julio de 2018. Publicado por Cuentos por Creer.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=0E7ryzsaLKs',
+    },
+    {
+      tema: '',
+      referencia:
+        'Protocolo de atención al cliente. 15 de diciembre de 2016. Publicado por Shirley Dania Julca Castillo.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=egkOLUiEdx4',
     },
   ],
   creditos: {
@@ -345,14 +660,8 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
-        cargo: 'Diseño web',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
         nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
@@ -364,7 +673,13 @@ export default {
       },
       {
         nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
+        cargo: 'Desarrollo Front-End',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
+        cargo: 'Validación de contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },

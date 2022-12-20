@@ -53,7 +53,7 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 1
-          span Propósitos de la Ley 100 de 1993}
+          span Propósitos de la Ley 100 de 1993
     
     .row.justify-content-center.mb-4
       .col-lg-10
@@ -69,7 +69,7 @@
         figure
           img(src='@/assets/curso/tema1/decoracion.svg', alt='Texto que describa la imagen')
       .col-lg-11.col-md-10
-        p.mb-0 Mediante el aseguramiento, el sistema construye procesos de protección frente a las condiciones mencionadas y garantiza la prestación de los servicios. La Ley 1122 de 2007 define el aseguramiento como
+        p.mb-0 Mediante el aseguramiento, el sistema construye procesos de protección frente a las condiciones mencionadas y garantiza la prestación de los servicios. La Ley 1122 de 2007 define el aseguramiento como:
 
     .row.justify-content-center.align-items-center.mb-4 
       .col-lg-8.col-md-10.col-10
@@ -96,7 +96,7 @@
                   | La representación del afiliado ante el prestador.
                 li
                   i.fas.fa-check
-                  | Los demás actores sin perjuicio de la autonomía de los usuarios
+                  | Los demás actores sin perjuicio de la autonomía de los usuarios.
       .col-lg-4.col-md-8.col-8
         figure
           img(src='@/assets/curso/tema1/img1.png', alt='Texto que describa la imagen')
@@ -130,7 +130,7 @@
     separador
 
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade")
-      .h2 1.4 Integrantes del sistema
+      .h2 1.4 Regímenes
 
     .tarjeta.celeste.p-4
       SlyderA(tipo="b")

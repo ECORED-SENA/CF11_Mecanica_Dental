@@ -17,35 +17,35 @@
           .row.justify-content-center.align-items-center 
             .col-lg-7
               LineaTiempoE.color-acento-contenido
-                .row(titulo="ARTICULO I")
+                .row(titulo="ARTÍCULO I")
                   .col-lg-12
                     p.mb-0 Objeto.
 
-                .row(titulo="ARTICULO II")
+                .row(titulo="ARTÍCULO II")
                   .col-lg-12
                     p.mb-0 Selección de información a ser reportada.
 
-                .row(titulo="ARTICULO III")
+                .row(titulo="ARTÍCULO III")
                   .col-lg-12
                     p.mb-0 Reporte de información.
 
-                .row(titulo="ARTICULO IV")
+                .row(titulo="ARTÍCULO IV")
                   .col-lg-12
                     p.mb-0 Anexos técnicos para el reporte de información.
 
-                .row(titulo="ARTICULO V")
+                .row(titulo="ARTÍCULO V")
                   .col-lg-12
                     p.mb-0 Periodicidad y plazo del reporte de la información.
 
-                .row(titulo="ARTICULO VI")
+                .row(titulo="ARTÍCULO VI")
                   .col-lg-12
                     p.mb-0 Actualización y modificación de la Carta de Derechos y Deberes del Afiliado y Carta de Desempeño de EPS.
 
-                .row(titulo="ARTICULO VII")
+                .row(titulo="ARTÍCULO VII")
                   .col-lg-12
                     p.mb-0 Tratamiento de la información.
 
-                .row(titulo="ARTICULO VIII")
+                .row(titulo="ARTÍCULO VIII")
                   .col-lg-12
                     p.mb-0 Vigencia.
             .col-lg-5.col-md-8
@@ -59,7 +59,7 @@
         p.mb-4 <b>Estimando aprendiz en la siguiente infografía se encuentran los 23 derechos y 6 deberes que tienen que ser conocidos por los usuarios.</b>
         .row.justify-content-center
           .col-lg-8.col-md-8.col-8
-            a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://www.minsalud.gov.co/proteccionsocial/promocion-social/Paginas/Calidad-salud-deberes-derechos-mecanismos.aspx" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -74,11 +74,11 @@
       p.mb-4 <b>El siguiente video animado presenta un resumen de la Resolución 2626 de 2019.</b>
       figure.mb-5
         .video
-          iframe(width="1026" height="578" src="https://www.youtube.com/embed/tDUOKWTeoYs" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="1026" height="578" src="https://www.youtube.com/embed/nTiPxWOYx5A" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-4 <b>En el siguiente enlace del Ministerio de Salud, puede ampliar información acerca de la Carta de Derechos y Deberes del Afiliado y del Paciente y de la Carta de Desempeño de la IPS y EPS.</b>
-    .row
+    .row.justify-content-center
       .col-lg-4.col-md-6
-        a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.minsalud.gov.co/salud/CAS/Paginas/Carta-de-derechos-y-deberes-y-carta-de-desempe%C3%B1o-del-afiliado-al-sistema-de-salud.aspx" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto

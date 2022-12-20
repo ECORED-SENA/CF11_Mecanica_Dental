@@ -25,27 +25,27 @@
           .row.align-items-center.justify-content-center
             .col-lg-7.col-md-12.col-12
               LineaTiempoE.color-acento-contenido
-                .row(titulo="ARTICULO I")
+                .row(titulo="ARTÍCULO I")
                   .col-lg-12
                     p.mb-0 De la Política de Atención Integral en Salud- PAIS.
 
-                .row(titulo="ARTICULO II")
+                .row(titulo="ARTÍCULO II")
                   .col-lg-12
                     p.mb-0 Marco estratégico de la Política de Atención Integral en Salud.
 
-                .row(titulo="ARTICULO III")
+                .row(titulo="ARTÍCULO III")
                   .col-lg-12
                     p.mb-0 Modelo Integral de Atención en Salud - MIAS.
 
-                .row(titulo="ARTICULO IV")
+                .row(titulo="ARTÍCULO IV")
                   .col-lg-12
                     p.mb-0 Ámbito de aplicación La presente resolución se aplicará a la población residente
 
-                .row(titulo="ARTICULO V")
+                .row(titulo="ARTÍCULO V")
                   .col-lg-12
                     p.mb-0 Componentes del Modelo integral de Atención en Salud – MIAS.
 
-                .row(titulo="ARTICULO VI")
+                .row(titulo="ARTÍCULO VI")
                   .col-lg-12
                     p.mb-0 Implementación y evaluación del MIAS.
             .col-lg-5.col-md-8.col-6
@@ -56,13 +56,13 @@
       p.mb-4 <b>A continuación, se encuentra un enlace que lleva a un video del plan de atención integral en salud. Donde la Dra. Mery Barragán afirma que la política de salud está unida a la política de humanización en salud en el acceso de los usuarios a la prestación de los servicios.</b>
       figure.mb-5
         .video
-          iframe(width="1026" height="578" src="https://www.youtube.com/embed/tDUOKWTeoYs" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="1026" height="578" src="https://www.youtube.com/embed/AD9GoqohIuQ" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-4 <b>Realizar la lectura de la Resolución 0429 de 2016 - Ministerio de Salud. “Por medio de la cual se adopta la Política de Atención Integral en Salud” donde puede identificar la caracterización de la población, Regulación de Rutas Integrales de Atención en Salud, RIAS. Implementación de la Gestión Integral del Riesgo en Salud-GIRS.</b>
 
     .row.justify-content-center.mb-4
       .col-lg-4.col-md-6.col-8
-        a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.minsalud.gov.co/Ministerio/Institucional/Procesos%20y%20procedimientos/GIPS26.pdf" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -79,55 +79,55 @@
               .row.justify-content-center.align-items-center 
                 .col-lg-7
                   LineaTiempoE.color-acento-contenido
-                    .row(titulo="ARTICULO I")
+                    .row(titulo="ARTÍCULO I")
                       .col-lg-12
                         p.mb-0 Objeto
 
-                    .row(titulo="ARTICULO II")
+                    .row(titulo="ARTÍCULO II")
                       .col-lg-12
                         p.mb-0 Ámbito de aplicación.
 
-                    .row(titulo="ARTICULO III")
+                    .row(titulo="ARTÍCULO III")
                       .col-lg-12
                         p.mb-0 Liderazgo de la implementación y el seguimiento de la Política de Atención Integral de Salud - PAIS y del Modelo de Acción Integral Territorial MAITE.
 
-                    .row(titulo="ARTICULO IV")
+                    .row(titulo="ARTÍCULO IV")
                       .col-lg-12
                         p.mb-0 Política de Atención Integral en Salud -PAIS.
 
-                    .row(titulo="ARTICULO V")
+                    .row(titulo="ARTÍCULO V")
                       .col-lg-12
                         p.mb-0 Estrategias y enfoques de la Política de Atención Integral en Salud.
 
-                    .row(titulo="ARTICULO VI")
+                    .row(titulo="ARTÍCULO VI")
                       .col-lg-12
                         p.mb-0 Modelo de Acción Integral Territorial - MAITE.
                     
-                    .row(titulo="ARTICULO VII")
+                    .row(titulo="ARTÍCULO VII")
                       .col-lg-12
                         p.mb-0 Objetivos del modelo de Acción Integral Territorial - MAITE.
 
-                    .row(titulo="ARTICULO VIII")
+                    .row(titulo="ARTÍCULO VIII")
                       .col-lg-12
                         p.mb-0 Líneas mínimas de acción del Modelo de Acción Integral Territorial - MAITE.
 
-                    .row(titulo="ARTICULO IX")
+                    .row(titulo="ARTÍCULO IX")
                       .col-lg-12
                         p.mb-0 Fases para la formulación del Plan de Acción e Implementación del MAITE.
 
-                    .row(titulo="ARTICULO X")
+                    .row(titulo="ARTÍCULO X")
                       .col-lg-12
                         p.mb-0 Indicadores para el monitoreo, de la implementación y avances del MAITE.
 
-                    .row(titulo="ARTICULO XI")
+                    .row(titulo="ARTÍCULO XI")
                       .col-lg-12
                         p.mb-0 Incorporación de los avances del Modelo Integral de Atención en Salud - MIAS.
 
-                    .row(titulo="ARTICULO XII")
+                    .row(titulo="ARTÍCULO XII")
                       .col-lg-12
                         p.mb-0 Transitorio.
 
-                    .row(titulo="ARTICULO XIII")
+                    .row(titulo="ARTÍCULO XIII")
                       .col-lg-12
                         p.mb-0 Vigencia y derogatorias.
 
@@ -149,7 +149,7 @@
             | Condiciones y reglas para la movilidad, del régimen subsidiado hacia el régimen contributivo y viceversa.
         .row 
           .col-lg-8.col-md-8.col-8
-            a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://www.minsalud.gov.co/Ministerio/Institucional/Procesos%20y%20procedimientos/GIPS26.pdf" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -162,9 +162,9 @@
 
     .bg_grad-01
       p.mb-4 <b>El siguiente video animado presenta un resumen de la Resolución 2626 de 2019.</b>
-      figure.mb-5
+      figure
         .video
-          iframe(width="1026" height="578" src="https://www.youtube.com/embed/tDUOKWTeoYs" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="1026" height="578" src="https://www.youtube.com/embed/n6bE2uy_Dr0" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 </template>

@@ -23,10 +23,10 @@
       figure.mb-5
         .video
           iframe(width="1026" height="578" src="https://www.youtube.com/embed/CoB_6Z8gtlU" title="¿Cómo funciona el sistema pensional colombiano?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-4 <b>El segundo video es de clases de pensiones. Donde se explica la diferencia entre los fondos de pensiones públicos y los privados</b>
+    p.mb-5 <b>El segundo video es de clases de pensiones. Donde se explica la diferencia entre los fondos de pensiones públicos y los privados</b>
     figure.mb-5
       .video
-        iframe(width="1026" height="578" src="https://www.youtube.com/embed/JZ-2C3sndPM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="1026" height="578" src="https://www.youtube.com/embed/FTuXfvYKNvI" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-4 A través del tiempo el régimen pensional ha tenido diferentes modificaciones que se pueden precisar desde la Ley 100 de 1993 (diciembre 23), por la cual se crea el sistema de seguridad social integral y se dictan otras disposiciones: el libro primero del Sistema General de Pensiones, el Decreto 1450 del 3 de julio de 2012, por el cual se reglamenta el Decreto Ley 019 de 2012; la Resolución 2030 del 17 de diciembre de 2019, por medio de la cual se declara el decaimiento de 4 resoluciones de ordenación de gasto y pago de intereses moratorios y/o costas procesales de la vigencia 2019. Y demás normatividad existente.
 
     .row.justify-content-center.mb-5
@@ -60,7 +60,7 @@
                 .row.justify-content-center
                   .col-10
                     p.mb-4 A continuación, se encuentra un cuadro en donde pueden ser revisadas las actualizaciones del Decreto 1833 de 2016.
-                    a.anexo1.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                    a.anexo1.mb-4.mb-lg-0(href="https://www.mintrabajo.gov.co/web/guest/normatividad/decreto-unico-sistema-general-de-pensiones" target="_blank")
                       .anexo__icono
                         img(src="@/assets/template/icono-link.svg")
                       .anexo__texto
@@ -75,7 +75,7 @@
                   .col-10
                     p.mb-4 Se presenta el siguiente enlace que lleva a un cuadro en donde se describe todo el marco normativo de pensiones en nuestro país. Este cuadro fue construido por el Ministerio de Hacienda.
 
-                    a.anexo2.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                    a.anexo2.mb-4.mb-lg-0(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=85319" target="_blank")
                       .anexo__icono
                         img(src="@/assets/template/icono-link.svg")
                       .anexo__texto
@@ -204,7 +204,7 @@
             .col-lg-10
               .row.align-items-center.mb-0
                 .col-lg-7.mb-4
-                  h4.mb-4 Régimen de ahorro individual con solidaridad.
+                  h4.mb-4 Régimen de ahorro individual con solidaridad
                   p.mb-0 En este régimen el financiamiento de las pensiones se hace a través de una cuenta individual de ahorro manejada por la administradora de pensiones. Las cotizaciones de cada afiliado están dirigidas a financiar su propia pensión centrando su efectividad en la acumulación de capital en la cuenta individual del afiliado (cantidad cotizada) dejando de lado los requisitos de edad y tiempo de cotización exigidos por el régimen de prima media.
                 .col-lg-5
                   figure
@@ -258,14 +258,29 @@
                 td Prima de seguro obligatoria
                 td Cotización
                 td 
-                  p Capitalización individual
-                  p Cotizaciones adicionales
+                  p.mb-0 Capitalización individual
+                  p.mb-0 Cotizaciones adicionales
               tr
                 td El derecho a pensión no depende del aporte
                 td Pensión
                 td 
-                  p No se requiere edad o tiempo. 
-                  p A mayor cotización (ahorro), mayor posibilidad de pensión
+                  p.mb-0 No se requiere edad o tiempo. 
+                  p.mb-0 A mayor cotización (ahorro), mayor posibilidad de pensión
+              tr
+                td No
+                td Devolución de saldos
+                td Si
+              tr
+                td Fondo Común
+                td Tipo de cuenta
+                td Cuenta pensional individual
+              tr
+                td Prima media
+                td Modalidad de pensión
+                td
+                  p.mb-0 Retiro programado
+                  p.mb-0 Renta vitalicia
+                  p.mb-0 Retiro programado con renta vitalicia
     .row.justify-content-center.mb-4
       .col-lg-10
         .tabla-a.color-acento-contenido
@@ -294,6 +309,70 @@
                 td Impacto por transición demográfica.
                 td Fortalecimiento del mercado de capitales.
                 td Riesgo ante crisis económica.
+              tr
+                td No se afecta por crisis económicas o financieras
+                td No genera hábitos de ahorro.
+                td Relación estrecha entre capitalización y pensión.
+                td Altos costos de administración.
+              tr
+                td 
+                td Riesgo de requerir soporte estatal.
+                td Devolución del capital.
+                td 
+              tr
+                td 
+                td 
+                td Competencia entre administradoras.
+                td 
+              tr
+                td
+                  h5 Ventajas
+                td
+                  h5 Desventajas
+                td
+                  h5 Ventajas
+                td
+                  h5 Desventajas
+              tr
+                td Certeza de cumplimiento de requisitos.
+                td Garantía de pensión al cumplir la edad.
+                td Es flexible, no tiene requisitos.
+                td No exige edad.
+              tr
+                td Tiempo de cotización mayor al exigido afecta el monto de pensión.
+                td Requisitos estrictos.
+                td 
+                  p.mb-0 Garantía estatal para:
+                  p.mb-0 Edad:
+                  p.mb-0 Mujeres 57 años
+                  p.mb-0 Hombres 62 años
+                  p.mb-0 Cotización: 115 semanas.
+                td No hay garantías estatales.
+              tr
+                td Pago de cotización menor que monto de pensión
+                td Límite de cuantía de pensión en 25 SMLV
+                td No financiación de pensión mínima.
+                td Traslado de bono pensional.
+              tr
+                td Cotización continua o discontinua.
+                td 
+                td Devolución de saldo (no pensión - no garantía estatal).
+                td Descuentos: administración.
+              tr
+                td Pensión vitalicia a sobrevivientes.
+                td 
+                td Escogencia - traslado administrador.
+                td Seguro invalidez.
+              tr
+                td Hay garantía del Estado.
+                td 
+                td Esquema multifondos.
+                td Sobrevivientes.
+              tr
+                td 
+                td 
+                td 
+                td No mesada adicional.
 
 </template>
 

@@ -15,7 +15,7 @@
     .row.mb-4
       .col-lg-12
         .row.align-items-center.justify-content-center
-          .col-lg-4.col-md-5.col-6
+          .col-12.col-lg-4.col-md-5.col-6
             .cajon.celeste5.p-4
               ul.lista-ul--color.mb-4
                 li
@@ -36,10 +36,10 @@
                 li
                   i.fas.fa-check
                   | El perfeccionista.
-          .col-lg-3.col-md-7.col-6
+          .col-10.col-lg-3.col-md-7.col-6
             figure
               img(src='@/assets/curso/tema13/1.png', alt='Texto que describa la imagen')
-             
+    p.mb-4 El equipo debe contar con una actitud de escucha y colaboración, es necesario saber que no es fácil interactuar con diferentes tipos de personas.       
     .cajon.color-gris6.p-4.mb-0
       .row
         .col-lg-12
@@ -67,15 +67,15 @@
       
     figure.mb-5
       .video
-        iframe(width="1026" height="578" src="https://www.youtube.com/embed/tDUOKWTeoYs" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="1026" height="578" src="https://www.youtube.com/embed/p4MMuesoseI" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .bg_grad-01
       p.mb-4 <b>A continuación, el siguiente enlace, lleva al video “El trabajo en equipo” el cual lo lleva a reflexionar sobre los triunfos que se pueden conseguir al seguir indicaciones haciendo uso de nuestras debilidades y fortalezas, Permitiendo que cada uno desempeñe su función dentro del equipo. También se presentan algunos ejemplos de trabajo de equipo.</b>
       figure.mb-5
         .video
-          iframe(width="1026" height="578" src="https://www.youtube.com/embed/tDUOKWTeoYs" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="1026" height="578" src="https://www.youtube.com/embed/k4zh8qKNG0M" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    h4 Autoestima – autonomía.
+    h4 Autoestima - autonomía
     p.mb-4 La autoestima marca en gran medida nuestro desarrollo. Del grado de autoestima dependerá su desarrollo en el aprendizaje, en las relaciones sociales, en las actividades de la vida diaria y, en consecuencia, en la construcción general de la felicidad.
     p.mb-4 <b>Autonomía y autoestima van ligados, cuando tenemos:</b>
 
@@ -97,7 +97,7 @@
       p.mb-4 <b>El siguiente enlace lleva a un video donde se presentan algunas ideas con respecto a cómo pueden fomentar la motivación, autonomía y autoestima.</b>
       figure.mb-5
         .video
-          iframe(width="1026" height="578" src="https://www.youtube.com/embed/tDUOKWTeoYs" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="1026" height="578" src="https://www.youtube.com/embed/0E7ryzsaLKs" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     h4 Relaciones interpersonales
     p.mb-5 Es la interacción que existe entre dos o más personas, que nos permite alcanzar diferentes propósitos basándose en los sentimientos de las personas. Sin embargo, este tipo de relaciones son la base, no solo de la vida personal sino también de la social y laboral. Por otra parte “En el ámbito laboral surgen muchas discrepancias, recelos, roces; unos verbales, en el contexto de una conversación entre compañeros de trabajo; otros corporales, en la comunicación no verbal” (López, 2006).
@@ -114,13 +114,13 @@
       p.mb-4 <b>En el siguiente enlace se encuentra un video en donde presentan algunos consejos para mejorar las relaciones interpersonales teniendo como base las necesidades personales.</b>
       figure.mb-5
         .video
-          iframe(width="1026" height="578" src="https://www.youtube.com/embed/tDUOKWTeoYs" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="1026" height="578" src="https://www.youtube.com/embed/eZJ46ab0S_o" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     br
     .bg_grad-01
       p.mb-4 <b>El siguiente enlace se encuentra un video que da una breve descripción sobre relaciones interpersonales humanizadas en salud.</b>
       figure.mb-5
         .video
-          iframe(width="1026" height="578" src="https://www.youtube.com/embed/tDUOKWTeoYs" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="1026" height="578" src="https://www.youtube.com/embed/KnmqCaeZYww" title="Constitución Política De Colombia - (Fundamentos de Administración Pública)." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     h4 Liderazgo y toma de decisiones
     p.mb-4 En relación con el liderazgo podemos decir que es un conjunto de capacidades que tiene el individuo para contribuir en forma positiva en el actuar de las personas. A su vez en nuestro entorno laborar se debe lograr que el equipo de trabajo realice sus actividades con entusiasmo para la satisfacción de cada uno como persona. Esto aplica también para el usuario y así aportar al cumplimiento de las metas de la institución.
     p.mb-4 Las 10 cualidades más importantes que todo líder debe poseer son:
